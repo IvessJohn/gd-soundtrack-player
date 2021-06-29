@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Mellow Intro_cut.wav-a905b35fe7c49ac4dfafa6dc621aca30.sample"
+
+[deps]
+
+source_file="res://soundtracks/Mellow Intro_cut.wav"
+dest_files=[ "res://.import/Mellow Intro_cut.wav-a905b35fe7c49ac4dfafa6dc621aca30.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

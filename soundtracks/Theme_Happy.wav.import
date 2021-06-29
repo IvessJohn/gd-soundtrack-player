@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Theme_Happy.wav-2573487f2f2639cdd1a177b1ef9f0a7a.sample"
+
+[deps]
+
+source_file="res://soundtracks/Theme_Happy.wav"
+dest_files=[ "res://.import/Theme_Happy.wav-2573487f2f2639cdd1a177b1ef9f0a7a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

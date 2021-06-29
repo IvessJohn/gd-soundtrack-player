@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Mellow Boss_loop.wav-93572ee21b79aba9fc5bb484f61356b2.sample"
+
+[deps]
+
+source_file="res://soundtracks/Mellow Boss_loop.wav"
+dest_files=[ "res://.import/Mellow Boss_loop.wav-93572ee21b79aba9fc5bb484f61356b2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

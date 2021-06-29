@@ -3,6 +3,7 @@
 .import/
 export.cfg
 export_presets.cfg
+FINAL_CODE.txt
 
 # Mono-specific ignores
 .mono/
