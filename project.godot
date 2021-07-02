@@ -8,10 +8,24 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Node",
+"class": "SOUNDTRACKPLAYER_CLASS",
+"language": "GDScript",
+"path": "res://SoundtrackPlayer.gd"
+} ]
+_global_script_class_icons={
+"SOUNDTRACKPLAYER_CLASS": ""
+}
+
 [application]
 
 config/name="Soundtrack Player Tutorial"
 config/icon="res://icon.png"
+
+[autoload]
+
+SoundtrackPlayer="*res://SoundtrackPlayer.tscn"
 
 [physics]
 
